@@ -65,7 +65,11 @@ namespace C_Sharp_Basic
             //{
             //    Console.WriteLine("\nmau :" + cl);
             //}
- 
+            LinQ_To_Object lq = new LinQ_To_Object();
+            lq.lin();
+            //string a = "niuniuninh agasda";
+            //a.wordcout();
+         //   Console.WriteLine("{0}", a.wordcout());
             Console.ReadLine();
         }
     }
